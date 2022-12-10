@@ -26,7 +26,7 @@
     "@types/gapi": "0.0.35",
     "@types/gapi.auth2": "0.0.47",
     "core-js": "^2.5.4",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "path": "^0.12.7",
     "rxjs": "^6.0.0",
     "typescript": "~2.7.2",
